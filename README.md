@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @soulfulcode
+- 👀 I’m interested in technological advancements that could bring game design and interactive storytelling to the next step.
+- 🌱 I’m currently learning Behavior Trees and Machine Learning.
+- 💞️ I’m looking to collaborate on video game projects or any kind of interactive experiences.
+- 📫 How to reach me: send a mail to soulfulcodelink@gmail.com
